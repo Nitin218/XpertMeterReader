@@ -7,13 +7,21 @@ The goal of the Automated Meter Reading Solution is to streamline the process of
 **Functionality**
 
   **1. Image Tagging and Preparation**
+  
   Tagging Images: Users can tag images captured by a mobile camera to indicate the presence of meter readings, facilitating organization and preparation for processing.
+  
   **2. Machine Learning Models**
+  
   Faster R-CNN and YOLO Models: The solution utilizes advanced machine learning models, including Faster R-CNN and YOLO, to detect and extract numbers from meter images.
+  
   **3. Automated Data Extraction**
+  
   Record Numbers into Excel Sheet: Detected meter readings are automatically saved into an Excel sheet or a structured database, eliminating the need for manual data entry.
+  
   **4. Error Reduction and Efficiency**
+  
   Reduced Human Error: Automation of the meter reading process reduces the potential for human error associated with manual data entry.
+  
   Time and Resource Savings: By automating meter reading, the solution saves time and resources, leading to increased efficiency in meter management.
 
 **How it Operates**
