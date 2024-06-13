@@ -41,4 +41,6 @@ The goal of the Automated Meter Reading Solution is to streamline the process of
   5. Processing on AMR Server:
   Upon arrival at the AMR server, an algorithm conducts an analysis to identify any anomalies in the meter reading. If anomalies are detected, the meter reading undergoes correction. Additionally, if fraudulent activity is detected, both the corrected meter reading and evidence of the fraud are forwarded to the DISCOM server for appropriate actions.
 
+**Click on the image below to see the video:**
+
 [![XpertMeterReader](http://img.youtube.com/vi/qNIhTDREQjw/0.jpg)](http://www.youtube.com/watch?v=qNIhTDREQjw"XpertMeterReader”)
